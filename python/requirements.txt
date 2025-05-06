@@ -1,0 +1,5 @@
+# Windows-specific dependencies
+pywin32 ; sys_platform == 'win32'
+
+# Common dependencies
+psutil

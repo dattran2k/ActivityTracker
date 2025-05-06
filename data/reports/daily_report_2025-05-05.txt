@@ -1,0 +1,51 @@
+ACTIVITY REPORT FOR 2025-05-05
+========================================
+
+Total computer usage time: 00:19:12
+
+APPLICATION DETAILS:
+----------------------------------------------------------------------
+Application                    Category        Time            Percentage
+----------------------------------------------------------------------
+idea64.exe                     Development     00:00:47        4.08%
+C:\Users\dat\AppData\Local\Programs\Zalo\Zalo-25.4.2\plugins\capture\ZaloCap.exe Utility         00:00:41        3.56%
+C:\Users\dat\AppData\Local\Programs\Zalo\Zalo-25.4.2\plugins\capture\ZaloCall.exe Utility         00:00:41        3.56%
+C:\Users\dat\AppData\Local\Programs\Zalo\Zalo-25.4.2\Zalo.exe Utility         00:00:41        3.56%
+C:\Users\dat\AppData\Local\Discord\app-1.0.9190\Discord.exe Communication   00:00:41        3.56%
+C:\Users\dat\AppData\Local\DiscordCanary\app-1.0.625\DiscordCanary.exe Communication   00:00:41        3.56%
+C:\Users\dat\AppData\Local\AnthropicClaude\app-0.9.3\claude.exe Communication   00:00:41        3.56%
+C:\Users\dat\.jdks\openjdk-23.0.1\bin\java.exe Development     00:00:41        3.56%
+C:\Riot Games\Riot Client\RiotClientCrashHandler.exe Entertainment   00:00:41        3.56%
+C:\Program Files\WindowsApps\SpotifyAB.SpotifyMusic_1.262.580.0_x64__zpdnekdrzrea0\Spotify.exe Entertainment   00:00:41        3.56%
+C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25032.52.0_x64__cw5n1h2txyewy\CrossDeviceService.exe Utility         00:00:41        3.56%
+C:\Program Files\WindowsApps\Microsoft.YourPhone_1.25032.76.0_x64__8wekyb3d8bbwe\PhoneExperienceHost.exe Utility         00:00:41        3.56%
+C:\Program Files\WindowsApps\Microsoft.WindowsAlarms_11.2503.4.0_x64__8wekyb3d8bbwe\Time.exe Utility         00:00:41        3.56%
+C:\Program Files\WindowsApps\Microsoft.GamingApp_2504.1001.26.0_x64__8wekyb3d8bbwe\XboxPcAppFT.exe Utility         00:00:41        3.56%
+C:\Program Files\Riot Vanguard\vgtray.exe Utility         00:00:41        3.56%
+C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe Utility         00:00:41        3.56%
+C:\Program Files\Microsoft OneDrive\OneDrive.exe Utility         00:00:41        3.56%
+C:\Program Files\Microsoft OneDrive\25.065.0406.0002\Microsoft.SharePoint.exe Utility         00:00:41        3.56%
+C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1.1\lib\pty4j\win\x86-64\OpenConsole.exe Development     00:00:41        3.56%
+C:\Program Files\JetBrains\IntelliJ IDEA 2024.3.1.1\bin\idea64.exe Development     00:00:41        3.56%
+C:\Program Files\Google\Chrome\Application\chrome.exe Browser         00:00:41        3.56%
+C:\Program Files\Cloudflare\Cloudflare WARP\Cloudflare WARP.exe Utility         00:00:41        3.56%
+C:\Program Files (x86)\Overwolf\Overwolf.exe Utility         00:00:41        3.56%
+C:\Program Files (x86)\Overwolf\0.273.1.4\OverwolfBrowser.exe Utility         00:00:41        3.56%
+C:\Program Files (x86)\Kaspersky Lab\Kaspersky 21.20\avpui.exe Utility         00:00:41        3.56%
+C:\Program Files (x86)\Internet Download Manager\IDMan.exe Utility         00:00:41        3.56%
+C:\Program Files (x86)\AnyDesk\AnyDesk.exe Productivity    00:00:41        3.56%
+java.exe                       Development     00:00:29        2.52%
+chrome.exe                     Browser         00:00:07        0.61%
+claude.exe                     Communication   00:00:03        0.26%
+
+
+CATEGORY SUMMARY:
+--------------------------------------------------
+Category             Time            Percentage
+--------------------------------------------------
+Utility              00:10:56        56.94%
+Development          00:03:19        17.27%
+Communication        00:02:06        10.94%
+Entertainment        00:01:22        7.12%
+Browser              00:00:48        4.17%
+Productivity         00:00:41        3.56%
